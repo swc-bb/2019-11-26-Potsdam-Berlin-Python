@@ -282,6 +282,12 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
+<h2 id="wifi">WiFi</h2>
+  <p> 
+    There will be an <strong>eduroam</strong> wlan during the workshop.
+    We will provide WiFi guest tickets as a backup as well.
+  </p> 
+  
 <h2 id="setup">Setup</h2>
 
 <p>
