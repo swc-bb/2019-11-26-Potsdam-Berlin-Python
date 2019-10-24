@@ -124,7 +124,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Each participant must bring a laptop pre-installed
+  <strong>Requirements:</strong> Each participant must bring a laptop (not a tablet, Chromebook, etc.) pre-installed
   with preferred operating system of his/her own and software packages 
   listed <a href="#setup">HERE</a>. And should have <strong>administrative</strong> right for it.
   
